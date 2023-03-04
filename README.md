@@ -11,3 +11,4 @@ The game offers a variety of power-ups and items that the player can collect to 
 The graphics in the game are colorful and detailed, with a top-down view of the game world. The player's character is highly customizable, allowing players to choose their appearance and customize their weapons and magic spells.
 
 Overall, Zalda is an exciting and challenging game that offers players a chance to experience a classic action-adventure game with modern graphics and features.
+![zelda](https://user-images.githubusercontent.com/109078003/222929850-2528e9f3-9aa1-4296-96cf-5cfc05982040.PNG)
